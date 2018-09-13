@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="650" id="BG03" version="1.1" viewBox="0 0 1300 650" width="1300" xml:lang="de">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="650" id="BG06" version="1.1" viewBox="0 0 1300 650" width="1300" xml:lang="de">
     <defs>
         <font horiz-adv-x="980" id="ArialFettKursiv">
             <font-face alphabetic="0" ascent="1854" descent="-434" font-family="Arial" font-style="italic" font-weight="bold" panose-1="2 11 7 4 2 2 2 9 2 4" units-per-em="2048">
@@ -790,14 +790,14 @@
             <hkern g1="y" g2="period" k="152"/>
         </font>
     </defs>
-    <title xml:lang="de">Branchenprognose qualitativ</title>
+    <title xml:lang="de">Digitalisierungstrends in Ihrer Branche</title>
     <g fill="#000000" font-family="Arial" font-size="40" font-weight="bold" stroke="none">
-        <text x="35" y="65">Branchenprognose</text>
+        <text x="35" y="65">Digitalisierungstrends in Ihrer Branche</text>
     </g>
     <svg fill="#000000" font-family="Arial" font-size="35" font-weight="normal" height="565" id="textContainer" stroke="none" version="1.1" width="1230" x="35" y="100">
         <circle cx="8" cy="24" r="8"/>
         <text x="35" y="35">
-            <tspan>VdZ-Branchenprognose</tspan>
+            <tspan>VdZ-Digitalisierungstrends</tspan>
         </text>
         <circle cx="8" cy="76" r="8"/>
         <text x="35" y="87">
@@ -805,7 +805,7 @@
         </text>
         <circle cx="8" cy="128" r="8"/>
         <text x="35" y="139">
-            <tspan>10 Bullet-Points</tspan>
+            <tspan>20 Bullet-Points</tspan>
         </text>
         <circle cx="8" cy="180" r="8"/>
         <text x="35" y="191">
